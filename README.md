@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer with 1+ year of hands-on experience in building web applications using the Python & MERN stack . Currently serving as an Intern at Indian Oil Corporation Limited (IOCL), gaining real-world experience in developing and maintaining scalable applications. Experienced in designing responsive frontends and implementing backend logic, with a strong focus on clean code and performance optimization. Continuously enhancing problem-solving skills through Data Structures and Algorithms and expanding expertise in emerging technologies like Generative AI.
+Full-Stack Developer with 1+ year of hands-on experience in building web applications using the Python & MERN stack . Recently completed my Internship from Indian Oil Corporation Limited (IOCL), gaining real-world experience in developing and maintaining scalable applications. Experienced in designing responsive frontends and implementing backend logic, with a strong focus on clean code and performance optimization. Continuously enhancing problem-solving skills through Data Structures and Algorithms and expanding expertise in emerging technologies like Generative AI.
 
 
 ## 🌐 Socials:
